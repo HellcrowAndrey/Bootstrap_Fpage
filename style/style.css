@@ -1,0 +1,29 @@
+.carousel {
+	position: relative;
+}
+
+footer {
+	background-color: black;
+}
+
+.p-null{
+	padding: 0;
+}
+
+.carousel-indicators li{
+	height: 25px;
+	border-radius: 50%;
+}
+
+.img-div_height{
+	height: 200px;
+}
+
+.img-thumbnail {
+	height: 150px;
+}
+
+.index-page-about-us-p_indent{
+	text-indent: 1.5em;
+	text-align: justify;
+}
